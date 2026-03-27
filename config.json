@@ -1,0 +1,16 @@
+{
+  "base_folder": "M:/EmailAutomate/emailPdf",
+  "drive_enabled": false,
+  "accounts": [
+    {
+      "name": "Prem",
+      "email": "singhpremraj264@gmail.com",
+      "app_password": "xfwy bftf ynoe quon"
+    },
+    {
+      "name": "Manohar",
+      "email": "kumarmanohar6206@gmail.com",
+      "app_password": "zhpm kfpv bwey dsng"
+    }
+  ]
+}
