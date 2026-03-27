@@ -5,6 +5,22 @@ from multiple Gmail accounts, organises them by user/bank, and optionally backs 
 
 ---
 
+## 📸 Screenshots
+
+### 📊 Main Dashboard
+The dashboard provides a real-time view of the automation status, account statistics, and a live processing log.
+![Dashboard](Images/Screenshot%20(1423).png)
+
+### 👥 Account Management
+Easily manage multiple Gmail accounts, allowing you to track statements for different users or family members.
+![Account Management](Images/Screenshot%20(1424).png)
+
+### ⚙️ Application Settings
+Configure your local storage paths, enable Google Drive backups, and set up the automated daily scheduler.
+![Settings](Images/Screenshot%20(1425).png)
+
+---
+
 ## 📦 Project Structure
 
 ```
